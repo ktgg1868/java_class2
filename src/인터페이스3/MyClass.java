@@ -10,7 +10,6 @@ public class MyClass {
 
     //생성자
     MyClass() {
-
     }
 
     MyClass(RemoteControl rc) {
