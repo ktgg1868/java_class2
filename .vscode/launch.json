@@ -1,0 +1,218 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexOutOfBoundsExceptionEx1",
+            "request": "launch",
+            "mainClass": "예외클래스.ArrayIndexOutOfBoundsExceptionEx1",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexOutOfBoundsExceptionEx2",
+            "request": "launch",
+            "mainClass": "예외클래스.ArrayIndexOutOfBoundsExceptionEx2",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "ClassCastExceptionEx",
+            "request": "launch",
+            "mainClass": "예외클래스.ClassCastExceptionEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "NullPointerExceptionEx",
+            "request": "launch",
+            "mainClass": "예외클래스.NullPointerExceptionEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatExceptionEx",
+            "request": "launch",
+            "mainClass": "예외클래스.NumberFormatExceptionEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchFinallyEx",
+            "request": "launch",
+            "mainClass": "예외클래스.TryCatchFinallyEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "args": ["a", "b"],
+            "type": "java",
+            "name": "TryCatchFinallyRuntimeExceptionEx",
+            "request": "launch",
+            "mainClass": "예외클래스.TryCatchFinallyRuntimeExceptionEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousEx",
+            "request": "launch",
+            "mainClass": "익명객체_로컬변수사용.AnonymousEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousEx(1)",
+            "request": "launch",
+            "mainClass": "익명객체_예제1.AnonymousEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousEx(2)",
+            "request": "launch",
+            "mainClass": "익명객체_예제2.AnonymousEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxEx",
+            "request": "launch",
+            "mainClass": "익명객체_예제3.CheckBoxEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "AnnonymousEx",
+            "request": "launch",
+            "mainClass": "익명구현객체.AnnonymousEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "익명구현객체.Main",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousEx(3)",
+            "request": "launch",
+            "mainClass": "익명자식객체.AnonymousEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "RemoteControlEx",
+            "request": "launch",
+            "mainClass": "인터페이스1.RemoteControlEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "SmartTelevisionEx",
+            "request": "launch",
+            "mainClass": "인터페이스2.SmartTelevisionEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "MyClassEx",
+            "request": "launch",
+            "mainClass": "인터페이스3.MyClassEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "VehicleEx",
+            "request": "launch",
+            "mainClass": "인터페이스_강제타입변환.VehicleEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "DriverEx",
+            "request": "launch",
+            "mainClass": "인터페이스_객체타입확인.DriverEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "DriverEx(1)",
+            "request": "launch",
+            "mainClass": "인터페이스_매개변수.DriverEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "인터페이스_상속.Example",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "SoundableExample",
+            "request": "launch",
+            "mainClass": "인터페이스_예제1.SoundableExample",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "DaeEx",
+            "request": "launch",
+            "mainClass": "인터페이스_예제2.DaeEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "CarEx",
+            "request": "launch",
+            "mainClass": "인터페이스_타입변환.CarEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "ButtonEx",
+            "request": "launch",
+            "mainClass": "중첩인터페이스.ButtonEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "중첩클래스.Main",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxEx(1)",
+            "request": "launch",
+            "mainClass": "중첩클래스_예제.CheckBoxEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "NestedClassEx",
+            "request": "launch",
+            "mainClass": "중첩클래스_예제.NestedClassEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
+            "name": "OutterEx",
+            "request": "launch",
+            "mainClass": "중첩클래스_참조얻기.OutterEx",
+            "projectName": "java_class2_a82f913d"
+        }
+    ]
+}

@@ -11,7 +11,7 @@ public class ClassCastExceptionEx {
 
     }
 
-    public static void changeDog(ANimal animal) {
+    public static void changeDog(Animal animal) {
 
         //ClassCastException에러 발생
         /*if(animal instanceof Dog) {
