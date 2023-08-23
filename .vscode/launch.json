@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ByteToStringEx",
+            "request": "launch",
+            "mainClass": "기본API클래스.java_lang.ByteToStringEx",
+            "projectName": "java_class2_a82f913d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -53,7 +60,10 @@
             "projectName": "java_class2_a82f913d"
         },
         {
-            "args": ["a", "b"],
+            "args": [
+                "a",
+                "b"
+            ],
             "type": "java",
             "name": "TryCatchFinallyRuntimeExceptionEx",
             "request": "launch",

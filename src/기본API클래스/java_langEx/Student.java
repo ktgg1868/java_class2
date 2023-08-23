@@ -1,4 +1,4 @@
-package 기본API클래스.java_lang;
+package 기본API클래스.java_langEx;
 
 public class Student {
     
